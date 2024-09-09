@@ -1,0 +1,64 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#HUNTER{
+    padding: 0;
+    width: 1500px;
+    height: 1200px;
+
+
+}
+
+
+
+
+
+
+
+#HUNTER-img{
+    opacity: 0.8;
+    padding: 0;
+    width: 1500px;
+    height: 1000px;
+    position: relative;
+    
+}
+#picture{
+    position: relative;
+    top: -500px;
+    margin: 0;
+    padding: 0;
+    
+}
+
+#box-p{
+    position: relative;
+    width: 500px;
+   
+    top: -850px;
+    color: rgb(245, 243, 243);
+}
+
+
+
+#ME{
+    position: relative;
+    top:-1300px;
+    margin-right: 1000px;
+}
+#blee{
+    position: relative;
+    width: 500px;
+    top: -1400px;
+    color: #f3eded;
+}
+#span{
+    margin-left: 100px;
+    margin-top: 450px;
+    
+}
+
+
+
+
